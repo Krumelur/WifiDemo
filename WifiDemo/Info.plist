@@ -5,7 +5,7 @@
 	<key>CFBundleName</key>
 	<string>WifiDemo</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.csharx.wifidemo.WifiDemo</string>
+	<string>net.csharx.wifidemo</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
